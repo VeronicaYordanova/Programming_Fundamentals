@@ -1,0 +1,6 @@
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_02_Advertisement_Message\bin\Debug\_02_Advertisement_Message.exe.config
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_02_Advertisement_Message\bin\Debug\_02_Advertisement_Message.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_02_Advertisement_Message\bin\Debug\_02_Advertisement_Message.pdb
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_02_Advertisement_Message\obj\Debug\_02_Advertisement_Message.csproj.CoreCompileInputs.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_02_Advertisement_Message\obj\Debug\_02_Advertisement_Message.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_02_Advertisement_Message\obj\Debug\_02_Advertisement_Message.pdb

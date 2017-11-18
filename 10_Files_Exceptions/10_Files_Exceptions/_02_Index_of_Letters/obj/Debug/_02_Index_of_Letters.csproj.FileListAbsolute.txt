@@ -1,0 +1,6 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_02_Index_of_Letters\bin\Debug\_02_Index_of_Letters.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_02_Index_of_Letters\bin\Debug\_02_Index_of_Letters.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_02_Index_of_Letters\bin\Debug\_02_Index_of_Letters.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_02_Index_of_Letters\obj\Debug\_02_Index_of_Letters.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_02_Index_of_Letters\obj\Debug\_02_Index_of_Letters.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_02_Index_of_Letters\obj\Debug\_02_Index_of_Letters.pdb

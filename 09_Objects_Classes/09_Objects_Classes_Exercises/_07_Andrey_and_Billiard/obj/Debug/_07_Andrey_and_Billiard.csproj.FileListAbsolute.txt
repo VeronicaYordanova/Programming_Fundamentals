@@ -1,0 +1,7 @@
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\obj\Debug\_07_Andrey_and_Billiard.csprojResolveAssemblyReference.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\obj\Debug\_07_Andrey_and_Billiard.csproj.CoreCompileInputs.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\bin\Debug\_07_Andrey_and_Billiard.exe.config
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\bin\Debug\_07_Andrey_and_Billiard.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\bin\Debug\_07_Andrey_and_Billiard.pdb
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\obj\Debug\_07_Andrey_and_Billiard.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_07_Andrey_and_Billiard\obj\Debug\_07_Andrey_and_Billiard.pdb

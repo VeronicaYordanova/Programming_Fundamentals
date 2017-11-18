@@ -1,0 +1,6 @@
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_11_Geometry_Calculator\bin\Debug\_11_Geometry_Calculator.exe.config
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_11_Geometry_Calculator\bin\Debug\_11_Geometry_Calculator.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_11_Geometry_Calculator\bin\Debug\_11_Geometry_Calculator.pdb
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_11_Geometry_Calculator\obj\Debug\11_Geometry_Calculator.csproj.CoreCompileInputs.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_11_Geometry_Calculator\obj\Debug\_11_Geometry_Calculator.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_11_Geometry_Calculator\obj\Debug\_11_Geometry_Calculator.pdb

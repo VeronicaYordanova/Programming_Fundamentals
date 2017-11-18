@@ -1,0 +1,7 @@
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\obj\Debug\_03_Unicode_Characters.csprojResolveAssemblyReference.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\obj\Debug\_03_Unicode_Characters.csproj.CoreCompileInputs.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\bin\Debug\_03_Unicode_Characters.exe.config
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\bin\Debug\_03_Unicode_Characters.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\bin\Debug\_03_Unicode_Characters.pdb
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\obj\Debug\_03_Unicode_Characters.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_03_Unicode_Characters\obj\Debug\_03_Unicode_Characters.pdb

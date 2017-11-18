@@ -1,0 +1,7 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\bin\Debug\_05_A_Miner_Task.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\bin\Debug\_05_A_Miner_Task.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\bin\Debug\_05_A_Miner_Task.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\obj\Debug\_05_A_Miner_Task.csprojResolveAssemblyReference.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\obj\Debug\_05_A_Miner_Task.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\obj\Debug\_05_A_Miner_Task.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_05_A_Miner_Task\obj\Debug\_05_A_Miner_Task.pdb

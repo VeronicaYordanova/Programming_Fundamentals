@@ -1,0 +1,7 @@
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\bin\Debug\_06_Max_Sequence_of_Equal_Elements.exe.config
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\bin\Debug\_06_Max_Sequence_of_Equal_Elements.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\bin\Debug\_06_Max_Sequence_of_Equal_Elements.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\obj\Debug\_06_Max_Sequence_of_Equal_Elements.csprojResolveAssemblyReference.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\obj\Debug\_06_Max_Sequence_of_Equal_Elements.csproj.CoreCompileInputs.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\obj\Debug\_06_Max_Sequence_of_Equal_Elements.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_06_Max_Sequence_of_Equal_Elements\obj\Debug\_06_Max_Sequence_of_Equal_Elements.pdb

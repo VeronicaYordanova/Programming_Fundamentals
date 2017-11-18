@@ -1,0 +1,7 @@
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\bin\Debug\_05_Book_Library.exe.config
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\bin\Debug\_05_Book_Library.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\bin\Debug\_05_Book_Library.pdb
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\obj\Debug\_05_Book_Library.csprojResolveAssemblyReference.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\obj\Debug\_05_Book_Library.csproj.CoreCompileInputs.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\obj\Debug\_05_Book_Library.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_05_Book_Library\obj\Debug\_05_Book_Library.pdb

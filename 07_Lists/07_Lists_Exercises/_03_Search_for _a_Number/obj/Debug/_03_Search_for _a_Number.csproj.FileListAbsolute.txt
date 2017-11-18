@@ -1,0 +1,7 @@
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\bin\Debug\_03_Search_for _a_Number.exe.config
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\bin\Debug\_03_Search_for _a_Number.exe
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\bin\Debug\_03_Search_for _a_Number.pdb
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\obj\Debug\_03_Search_for _a_Number.csprojResolveAssemblyReference.cache
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\obj\Debug\_03_Search_for _a_Number.csproj.CoreCompileInputs.cache
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\obj\Debug\_03_Search_for _a_Number.exe
+D:\Tech Module\07_Lists\Lists_Exercises\_03_Search_for _a_Number\obj\Debug\_03_Search_for _a_Number.pdb

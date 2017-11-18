@@ -1,0 +1,7 @@
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\bin\Debug\04_Fix_Emails.exe.config
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\bin\Debug\04_Fix_Emails.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\bin\Debug\04_Fix_Emails.pdb
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\obj\Debug\04_Fix_Emails.csprojResolveAssemblyReference.cache
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\obj\Debug\04_Fix_Emails.csproj.CoreCompileInputs.cache
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\obj\Debug\04_Fix_Emails.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\04_Fix_Emails\obj\Debug\04_Fix_Emails.pdb

@@ -1,0 +1,7 @@
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\bin\Debug\_12_Master_Number.exe.config
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\bin\Debug\_12_Master_Number.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\bin\Debug\_12_Master_Number.pdb
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\obj\Debug\12_Master_Number.csprojResolveAssemblyReference.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\obj\Debug\12_Master_Number.csproj.CoreCompileInputs.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\obj\Debug\_12_Master_Number.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\_12_Master_Number\obj\Debug\_12_Master_Number.pdb

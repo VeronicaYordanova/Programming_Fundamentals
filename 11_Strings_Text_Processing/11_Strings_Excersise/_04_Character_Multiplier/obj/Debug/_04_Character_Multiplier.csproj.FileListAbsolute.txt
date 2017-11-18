@@ -1,0 +1,7 @@
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\bin\Debug\_04_Character_Multiplier.exe.config
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\bin\Debug\_04_Character_Multiplier.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\bin\Debug\_04_Character_Multiplier.pdb
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\obj\Debug\_04_Character_Multiplier.csprojResolveAssemblyReference.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\obj\Debug\_04_Character_Multiplier.csproj.CoreCompileInputs.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\obj\Debug\_04_Character_Multiplier.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_04_Character_Multiplier\obj\Debug\_04_Character_Multiplier.pdb

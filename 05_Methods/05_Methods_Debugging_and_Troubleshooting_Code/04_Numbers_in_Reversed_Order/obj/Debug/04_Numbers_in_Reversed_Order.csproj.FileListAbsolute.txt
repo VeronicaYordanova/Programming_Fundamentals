@@ -1,0 +1,7 @@
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\bin\Debug\04_Numbers_in_Reversed_Order.exe.config
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\bin\Debug\04_Numbers_in_Reversed_Order.exe
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\bin\Debug\04_Numbers_in_Reversed_Order.pdb
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\obj\Debug\04_Numbers_in_Reversed_Order.csprojResolveAssemblyReference.cache
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\obj\Debug\04_Numbers_in_Reversed_Order.csproj.CoreCompileInputs.cache
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\obj\Debug\04_Numbers_in_Reversed_Order.exe
+D:\Tech Module\05. Programming-Fundamentals-Methods-Debugging-and-Troubleshooting-Code\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\04_Numbers_in_Reversed_Order\obj\Debug\04_Numbers_in_Reversed_Order.pdb

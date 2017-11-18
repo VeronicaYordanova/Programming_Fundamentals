@@ -1,0 +1,7 @@
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\bin\Debug\_06_Sum_of_big_numbers.exe.config
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\bin\Debug\_06_Sum_of_big_numbers.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\bin\Debug\_06_Sum_of_big_numbers.pdb
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\obj\Debug\_06_Sum_of_big_numbers.csprojResolveAssemblyReference.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\obj\Debug\_06_Sum_of_big_numbers.csproj.CoreCompileInputs.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\obj\Debug\_06_Sum_of_big_numbers.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_06_Sum_of_big_numbers\obj\Debug\_06_Sum_of_big_numbers.pdb

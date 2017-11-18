@@ -1,0 +1,7 @@
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\bin\Debug\13_Factorial.exe.config
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\bin\Debug\13_Factorial.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\bin\Debug\13_Factorial.pdb
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\obj\Debug\13_Factorial.csprojResolveAssemblyReference.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\obj\Debug\13_Factorial.csproj.CoreCompileInputs.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\obj\Debug\13_Factorial.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\13_Factorial\obj\Debug\13_Factorial.pdb

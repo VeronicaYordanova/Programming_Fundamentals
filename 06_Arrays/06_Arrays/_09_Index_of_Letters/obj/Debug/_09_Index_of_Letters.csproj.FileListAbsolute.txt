@@ -1,0 +1,7 @@
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\bin\Debug\_09_Index_of_Letters.exe.config
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\bin\Debug\_09_Index_of_Letters.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\bin\Debug\_09_Index_of_Letters.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\obj\Debug\_09_Index_of_Letters.csprojResolveAssemblyReference.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\obj\Debug\_09_Index_of_Letters.csproj.CoreCompileInputs.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\obj\Debug\_09_Index_of_Letters.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_09_Index_of_Letters\obj\Debug\_09_Index_of_Letters.pdb

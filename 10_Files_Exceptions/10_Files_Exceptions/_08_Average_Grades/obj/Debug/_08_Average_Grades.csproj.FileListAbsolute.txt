@@ -1,0 +1,7 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\bin\Debug\_08_Average_Grades.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\bin\Debug\_08_Average_Grades.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\bin\Debug\_08_Average_Grades.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\obj\Debug\_08_Average_Grades.csprojResolveAssemblyReference.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\obj\Debug\_08_Average_Grades.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\obj\Debug\_08_Average_Grades.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_08_Average_Grades\obj\Debug\_08_Average_Grades.pdb

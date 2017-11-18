@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\bin\Debug\_01_Extract_Emails.exe.config
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\bin\Debug\_01_Extract_Emails.exe
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\bin\Debug\_01_Extract_Emails.pdb
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.exe
+C:\Users\admin\source\repos\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.pdb
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\bin\Debug\_01_Extract_Emails.exe.config
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\bin\Debug\_01_Extract_Emails.exe
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\bin\Debug\_01_Extract_Emails.pdb
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.csprojResolveAssemblyReference.cache
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.csproj.CoreCompileInputs.cache
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.exe
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_01_Extract_Emails\obj\Debug\_01_Extract_Emails.pdb

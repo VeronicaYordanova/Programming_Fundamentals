@@ -1,0 +1,6 @@
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_03_Fold_and_Sum\bin\Debug\_03_Fold_and_Sum.exe.config
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_03_Fold_and_Sum\bin\Debug\_03_Fold_and_Sum.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_03_Fold_and_Sum\bin\Debug\_03_Fold_and_Sum.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_03_Fold_and_Sum\obj\Debug\_03_Fold_and_Sum.csproj.CoreCompileInputs.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_03_Fold_and_Sum\obj\Debug\_03_Fold_and_Sum.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_03_Fold_and_Sum\obj\Debug\_03_Fold_and_Sum.pdb

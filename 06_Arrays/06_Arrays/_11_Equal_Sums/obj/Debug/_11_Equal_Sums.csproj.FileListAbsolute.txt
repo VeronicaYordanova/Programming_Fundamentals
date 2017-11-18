@@ -1,0 +1,6 @@
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_11_Equal_Sums\bin\Debug\_11_Equal_Sums.exe.config
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_11_Equal_Sums\bin\Debug\_11_Equal_Sums.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_11_Equal_Sums\bin\Debug\_11_Equal_Sums.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_11_Equal_Sums\obj\Debug\_11_Equal_Sums.csproj.CoreCompileInputs.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_11_Equal_Sums\obj\Debug\_11_Equal_Sums.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_11_Equal_Sums\obj\Debug\_11_Equal_Sums.pdb

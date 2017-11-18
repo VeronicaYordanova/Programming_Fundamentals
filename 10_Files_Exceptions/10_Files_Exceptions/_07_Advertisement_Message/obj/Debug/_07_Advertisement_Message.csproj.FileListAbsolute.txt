@@ -1,0 +1,7 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\bin\Debug\_07_Advertisement_Message.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\bin\Debug\_07_Advertisement_Message.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\bin\Debug\_07_Advertisement_Message.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\obj\Debug\_07_Advertisement_Message.csprojResolveAssemblyReference.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\obj\Debug\_07_Advertisement_Message.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\obj\Debug\_07_Advertisement_Message.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_07_Advertisement_Message\obj\Debug\_07_Advertisement_Message.pdb

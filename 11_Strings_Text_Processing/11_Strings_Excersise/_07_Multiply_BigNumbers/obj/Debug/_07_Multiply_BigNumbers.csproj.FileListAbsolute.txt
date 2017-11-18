@@ -1,0 +1,6 @@
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_07_Multiply_BigNumbers\bin\Debug\_07_Multiply_BigNumbers.exe.config
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_07_Multiply_BigNumbers\bin\Debug\_07_Multiply_BigNumbers.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_07_Multiply_BigNumbers\bin\Debug\_07_Multiply_BigNumbers.pdb
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_07_Multiply_BigNumbers\obj\Debug\_07_Multiply_BigNumbers.csproj.CoreCompileInputs.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_07_Multiply_BigNumbers\obj\Debug\_07_Multiply_BigNumbers.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_07_Multiply_BigNumbers\obj\Debug\_07_Multiply_BigNumbers.pdb

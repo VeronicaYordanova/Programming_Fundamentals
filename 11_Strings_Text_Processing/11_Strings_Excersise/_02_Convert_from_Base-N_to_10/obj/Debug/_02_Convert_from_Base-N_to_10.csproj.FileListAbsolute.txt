@@ -1,0 +1,6 @@
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_02_Convert_from_Base-N_to_10\obj\Debug\_02_Convert_from_Base-N_to_10.csproj.CoreCompileInputs.cache
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_02_Convert_from_Base-N_to_10\bin\Debug\_02_Convert_from_Base-N_to_10.exe.config
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_02_Convert_from_Base-N_to_10\bin\Debug\_02_Convert_from_Base-N_to_10.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_02_Convert_from_Base-N_to_10\bin\Debug\_02_Convert_from_Base-N_to_10.pdb
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_02_Convert_from_Base-N_to_10\obj\Debug\_02_Convert_from_Base-N_to_10.exe
+D:\Tech Module\11_Strings_Text_Processing\Strings_Excersise\_02_Convert_from_Base-N_to_10\obj\Debug\_02_Convert_from_Base-N_to_10.pdb

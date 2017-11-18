@@ -1,0 +1,7 @@
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\bin\Debug\Objects_Classes_Exercises.exe.config
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\bin\Debug\Objects_Classes_Exercises.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\bin\Debug\Objects_Classes_Exercises.pdb
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\obj\Debug\_01_Count_Working_Days.csprojResolveAssemblyReference.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\obj\Debug\_01_Count_Working_Days.csproj.CoreCompileInputs.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\obj\Debug\Objects_Classes_Exercises.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\Objects_Classes_Exercises\obj\Debug\Objects_Classes_Exercises.pdb

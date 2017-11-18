@@ -1,0 +1,6 @@
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_05_Hands_of_Cards\bin\Debug\_05_Hands_of_Cards.exe.config
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_05_Hands_of_Cards\bin\Debug\_05_Hands_of_Cards.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_05_Hands_of_Cards\bin\Debug\_05_Hands_of_Cards.pdb
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_05_Hands_of_Cards\obj\Debug\_05_Hands_of_Cards.csproj.CoreCompileInputs.cache
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_05_Hands_of_Cards\obj\Debug\_05_Hands_of_Cards.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_05_Hands_of_Cards\obj\Debug\_05_Hands_of_Cards.pdb

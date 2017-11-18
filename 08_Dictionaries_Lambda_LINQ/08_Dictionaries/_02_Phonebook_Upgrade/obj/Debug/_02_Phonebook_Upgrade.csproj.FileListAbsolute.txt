@@ -1,0 +1,6 @@
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_02_Phonebook_Upgrade\bin\Debug\_02_Phonebook_Upgrade.exe.config
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_02_Phonebook_Upgrade\bin\Debug\_02_Phonebook_Upgrade.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_02_Phonebook_Upgrade\bin\Debug\_02_Phonebook_Upgrade.pdb
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_02_Phonebook_Upgrade\obj\Debug\_02_Phonebook_Upgrade.csproj.CoreCompileInputs.cache
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_02_Phonebook_Upgrade\obj\Debug\_02_Phonebook_Upgrade.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\_02_Phonebook_Upgrade\obj\Debug\_02_Phonebook_Upgrade.pdb

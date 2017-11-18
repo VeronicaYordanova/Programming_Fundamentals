@@ -1,0 +1,7 @@
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\bin\Debug\_10_Pairs_by_Difference.exe.config
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\bin\Debug\_10_Pairs_by_Difference.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\bin\Debug\_10_Pairs_by_Difference.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\obj\Debug\_10_Pairs_by_Difference.csproj.CoreCompileInputs.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\obj\Debug\_10_Pairs_by_Difference.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\obj\Debug\_10_Pairs_by_Difference.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_10_Pairs_by_Difference\obj\Debug\_10_Pairs_by_Difference.csprojResolveAssemblyReference.cache

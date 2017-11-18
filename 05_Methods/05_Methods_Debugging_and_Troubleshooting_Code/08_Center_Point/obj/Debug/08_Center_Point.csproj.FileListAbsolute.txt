@@ -1,0 +1,7 @@
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\bin\Debug\08_Center_Point.exe.config
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\bin\Debug\08_Center_Point.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\bin\Debug\08_Center_Point.pdb
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\obj\Debug\08_Center_Point.csprojResolveAssemblyReference.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\obj\Debug\08_Center_Point.csproj.CoreCompileInputs.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\obj\Debug\08_Center_Point.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\08_Center_Point\obj\Debug\08_Center_Point.pdb

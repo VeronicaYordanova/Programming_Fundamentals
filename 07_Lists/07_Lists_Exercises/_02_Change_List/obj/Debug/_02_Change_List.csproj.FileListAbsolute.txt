@@ -1,0 +1,7 @@
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\bin\Debug\_02_Change_List.exe.config
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\bin\Debug\_02_Change_List.exe
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\bin\Debug\_02_Change_List.pdb
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\obj\Debug\_02_Change_List.csprojResolveAssemblyReference.cache
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\obj\Debug\_02_Change_List.csproj.CoreCompileInputs.cache
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\obj\Debug\_02_Change_List.exe
+D:\Tech Module\07_Lists\Lists_Exercises\_02_Change_List\obj\Debug\_02_Change_List.pdb

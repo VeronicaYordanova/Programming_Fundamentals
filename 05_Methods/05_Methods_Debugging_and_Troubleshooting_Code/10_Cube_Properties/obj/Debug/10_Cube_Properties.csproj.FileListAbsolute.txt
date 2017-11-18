@@ -1,0 +1,7 @@
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\bin\Debug\10_Cube_Properties.exe.config
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\bin\Debug\10_Cube_Properties.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\bin\Debug\10_Cube_Properties.pdb
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\obj\Debug\10_Cube_Properties.csprojResolveAssemblyReference.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\obj\Debug\10_Cube_Properties.csproj.CoreCompileInputs.cache
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\obj\Debug\10_Cube_Properties.exe
+D:\Tech Module\05_Methods\05_Exercises\Methods_Debugging_and_Troubleshooting_Code\10_Cube_Properties\obj\Debug\10_Cube_Properties.pdb

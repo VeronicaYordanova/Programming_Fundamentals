@@ -1,0 +1,6 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_01_Most_Frequent_Number\bin\Debug\_01_Most_Frequent_Number.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_01_Most_Frequent_Number\bin\Debug\_01_Most_Frequent_Number.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_01_Most_Frequent_Number\bin\Debug\_01_Most_Frequent_Number.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_01_Most_Frequent_Number\obj\Debug\_01_Most_Frequent_Number.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_01_Most_Frequent_Number\obj\Debug\_01_Most_Frequent_Number.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_01_Most_Frequent_Number\obj\Debug\_01_Most_Frequent_Number.pdb

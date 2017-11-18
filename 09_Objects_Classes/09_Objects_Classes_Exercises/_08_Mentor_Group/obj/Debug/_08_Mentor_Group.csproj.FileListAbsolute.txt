@@ -1,0 +1,7 @@
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\bin\Debug\_08_Mentor_Group.exe.config
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\bin\Debug\_08_Mentor_Group.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\bin\Debug\_08_Mentor_Group.pdb
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\obj\Debug\_08_Mentor_Group.csprojResolveAssemblyReference.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\obj\Debug\_08_Mentor_Group.csproj.CoreCompileInputs.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\obj\Debug\_08_Mentor_Group.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_08_Mentor_Group\obj\Debug\_08_Mentor_Group.pdb

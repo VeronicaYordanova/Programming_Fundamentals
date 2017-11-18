@@ -1,0 +1,6 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_09_Book_Library\bin\Debug\_09_Book_Library.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_09_Book_Library\bin\Debug\_09_Book_Library.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_09_Book_Library\bin\Debug\_09_Book_Library.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_09_Book_Library\obj\Debug\_09_Book_Library.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_09_Book_Library\obj\Debug\_09_Book_Library.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\_09_Book_Library\obj\Debug\_09_Book_Library.pdb

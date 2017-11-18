@@ -1,0 +1,7 @@
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\bin\Debug\_03_Camera_View.exe.config
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\bin\Debug\_03_Camera_View.exe
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\bin\Debug\_03_Camera_View.pdb
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\obj\Debug\_03_Camera_View.csprojResolveAssemblyReference.cache
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\obj\Debug\_03_Camera_View.csproj.CoreCompileInputs.cache
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\obj\Debug\_03_Camera_View.exe
+D:\Tech Module\12_Regular_Expressions\RegEx_Exercises\_03_Camera_View\obj\Debug\_03_Camera_View.pdb

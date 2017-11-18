@@ -1,0 +1,7 @@
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\bin\Debug\02_Max_Method.exe.config
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\bin\Debug\02_Max_Method.exe
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\bin\Debug\02_Max_Method.pdb
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\obj\Debug\02_Max_Method.csprojResolveAssemblyReference.cache
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\obj\Debug\02_Max_Method.csproj.CoreCompileInputs.cache
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\obj\Debug\02_Max_Method.exe
+D:\Tech Module\05_Exc\Methods_Debugging_and_Troubleshooting_Code\02_Max_Method\obj\Debug\02_Max_Method.pdb

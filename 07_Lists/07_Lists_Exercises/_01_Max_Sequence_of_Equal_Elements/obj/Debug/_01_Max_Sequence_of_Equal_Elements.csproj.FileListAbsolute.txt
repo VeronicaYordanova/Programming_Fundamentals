@@ -1,0 +1,7 @@
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\bin\Debug\Lists_Exercises.exe.config
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\bin\Debug\Lists_Exercises.exe
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\bin\Debug\Lists_Exercises.pdb
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\obj\Debug\_01_Max_Sequence_of_Equal_Elements.csprojResolveAssemblyReference.cache
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\obj\Debug\_01_Max_Sequence_of_Equal_Elements.csproj.CoreCompileInputs.cache
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\obj\Debug\Lists_Exercises.exe
+D:\Tech Module\07_Lists\Lists_Exercises\Lists_Exercises\obj\Debug\Lists_Exercises.pdb

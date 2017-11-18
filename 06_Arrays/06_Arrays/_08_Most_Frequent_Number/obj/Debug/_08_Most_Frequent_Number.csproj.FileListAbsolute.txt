@@ -1,0 +1,7 @@
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\bin\Debug\_08_Most_Frequent_Number.exe.config
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\bin\Debug\_08_Most_Frequent_Number.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\bin\Debug\_08_Most_Frequent_Number.pdb
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\obj\Debug\_08_Most_Frequent_Number.csprojResolveAssemblyReference.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\obj\Debug\_08_Most_Frequent_Number.csproj.CoreCompileInputs.cache
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\obj\Debug\_08_Most_Frequent_Number.exe
+D:\Tech Module\06_Arrays\Arrays_exercises\Arrays\_08_Most_Frequent_Number\obj\Debug\_08_Most_Frequent_Number.pdb

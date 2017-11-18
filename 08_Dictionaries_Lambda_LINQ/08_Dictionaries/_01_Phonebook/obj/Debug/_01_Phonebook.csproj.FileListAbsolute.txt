@@ -1,0 +1,7 @@
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\obj\Debug\_01_Phonebook.csprojResolveAssemblyReference.cache
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\obj\Debug\_01_Phonebook.csproj.CoreCompileInputs.cache
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+D:\Tech Module\08_Dictionaries_Lambda_LINQ\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb

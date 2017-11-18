@@ -1,0 +1,7 @@
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\obj\Debug\_04_Average_Grades.csprojResolveAssemblyReference.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\obj\Debug\_04_Average_Grades.csproj.CoreCompileInputs.cache
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\bin\Debug\_04_Average_Grades.exe.config
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\bin\Debug\_04_Average_Grades.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\bin\Debug\_04_Average_Grades.pdb
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\obj\Debug\_04_Average_Grades.exe
+D:\Tech Module\09_Objects_Classes\Objects_Classes_Exercises\_04_Average_Grades\obj\Debug\_04_Average_Grades.pdb

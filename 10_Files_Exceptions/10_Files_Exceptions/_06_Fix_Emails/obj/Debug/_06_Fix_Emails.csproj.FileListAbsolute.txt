@@ -1,0 +1,7 @@
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\bin\Debug\Files_Exceptions.exe.config
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\bin\Debug\Files_Exceptions.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\bin\Debug\Files_Exceptions.pdb
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\obj\Debug\_06_Fix_Emails.csprojResolveAssemblyReference.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\obj\Debug\_06_Fix_Emails.csproj.CoreCompileInputs.cache
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\obj\Debug\Files_Exceptions.exe
+D:\Tech Module\10_Files_Exceptions\Files_Exceptions\Files_Exceptions\obj\Debug\Files_Exceptions.pdb
